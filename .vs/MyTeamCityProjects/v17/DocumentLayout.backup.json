@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\MyTeamCityProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AF6DA5D-820F-0974-C3D0-9F2913F872F6}|MyTeamCityProjects.csproj|e:\\myteamcityprojects\\myteamcityprojects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9AF6DA5D-820F-0974-C3D0-9F2913F872F6}|MyTeamCityProjects.csproj|solutionrelative:myteamcityprojects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9AF6DA5D-820F-0974-C3D0-9F2913F872F6}|MyTeamCityProjects.csproj|e:\\myteamcityprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AF6DA5D-820F-0974-C3D0-9F2913F872F6}|MyTeamCityProjects.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF6DA5D-820F-0974-C3D0-9F2913F872F6}|MyTeamCityProjects.csproj|e:\\myteamcityprojects\\myteamcityprojects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AF6DA5D-820F-0974-C3D0-9F2913F872F6}|MyTeamCityProjects.csproj|solutionrelative:myteamcityprojects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AF6DA5D-820F-0974-C3D0-9F2913F872F6}|MyTeamCityProjects.csproj|e:\\myteamcityprojects\\myteamcityprojects.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -22,24 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MyTeamCityProjects",
-              "DocumentMoniker": "E:\\MyTeamCityProjects\\MyTeamCityProjects.csproj",
-              "RelativeDocumentMoniker": "MyTeamCityProjects.csproj",
-              "ToolTip": "E:\\MyTeamCityProjects\\MyTeamCityProjects.csproj",
-              "RelativeToolTip": "MyTeamCityProjects.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-13T00:52:25.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyTeamCityProjects.csproj",
               "DocumentMoniker": "E:\\MyTeamCityProjects\\MyTeamCityProjects.csproj",
               "RelativeDocumentMoniker": "MyTeamCityProjects.csproj",
               "ToolTip": "E:\\MyTeamCityProjects\\MyTeamCityProjects.csproj",
@@ -51,7 +39,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MyTeamCityProjects",
+              "DocumentMoniker": "E:\\MyTeamCityProjects\\MyTeamCityProjects.csproj",
+              "RelativeDocumentMoniker": "MyTeamCityProjects.csproj",
+              "ToolTip": "E:\\MyTeamCityProjects\\MyTeamCityProjects.csproj",
+              "RelativeToolTip": "MyTeamCityProjects.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T00:48:10.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\MyTeamCityProjects\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
